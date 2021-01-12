@@ -12,6 +12,5 @@ int main(){
 	 int x=rand()%9;
 	 string x[]{"A","B+","B","C+","C","D+","D","F","W"};
 	 int i=rand()%9;
-	 cout << "You will get "<<x[i]<<" in this 261102.";
-	 
+	 cout << "You will get "<<x[i]<<" in this 261102.";	 
 }
